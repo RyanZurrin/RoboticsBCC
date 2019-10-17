@@ -1,2 +1,4 @@
 # RoboticsBCC
 Berkshire Community College's Robotics club Fire Fighting Robot Project (BCC.FFRP)
+
+BCC.FFRP is a ongoing robotics project started in 2018. It is for the international trinity college firefighting robot competition. Our goal is to work as a team of engineers to develop an autonomous robot that will make its way through a maze of sorts looking for a lit candle and avoiding any obstacles along the way. Once the flame is detected the robot must extinguish the flame and then make its way back to the starting point. As well it must only start on a 3.8kHz buzzing sound and this will be tested for false starts. I have started this repo as a public place we can develop and work on code and ideas together where we are safe to make changes and not worry about losing something that was already working. This is just the very beginning and I hope this repo grows and becomes an invaluable tool in the software development of our BCC firefighting robot.
